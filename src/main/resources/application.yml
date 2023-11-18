@@ -1,0 +1,6 @@
+elasticsearch:
+  port: 9200
+  host: 127.0.0.1
+  ingesterConcurrentThreadsNum: 10
+  ingesterMaxOperation: 10000
+  ingesterFlushInterval: 1
